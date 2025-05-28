@@ -31,6 +31,7 @@ function App() {
       <h1 className="text-3xl font-bold text-blue-500">
         blue blue blue blue 
       </h1>
+      <h3 className='text-red-900'>chajkhdsfhasf</h3>
     </>
   )
 }
