@@ -28,13 +28,8 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p> */}
- tra-branch
-      <h1 className="text-3xl font-bold text-green-500">
-        green 
-
       <h1 className="text-3xl font-bold text-blue-500">
-        blue
- main
+        blue blue blue blue 
       </h1>
     </>
   )
