@@ -34,8 +34,10 @@ function App() {
 
       </h1>
       <h3 className='text-red-900'>chajkhdsfhasf</h3>
+
       <h1 className="text-blue-600 text-3xl font-bold">blue</h1>
       <h1 className='text-orange-400'>fhajhfadsf</h1>
+      <h1 className='text-green-500 text-3xl font-bold'>green</h1>
     </>
   )
 }
