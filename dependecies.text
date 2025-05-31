@@ -1,0 +1,7 @@
+bcrypt
+cookie-parser
+dotenv
+ejs
+jsonwebtoken
+mysql2
+nodemon
