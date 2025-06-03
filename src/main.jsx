@@ -8,6 +8,8 @@ import ContactUS from './pages/ContactUs';
 import AboutUs from './pages/AboutUs';
 import Login from './pages/Login';
 import SignUp from './pages/SignUp';
+import Banner from './components/Banner';
+import Navbar from './components/NavBar';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -16,7 +18,9 @@ createRoot(document.getElementById('root')).render(
       {/* <ContactUS /> */}
       {/* <AboutUs /> */}
       {/* <Login /> */}
-      {<SignUp/>}
+      {/* {<SignUp/>} */}
+      <Banner />
+      <Navbar />
     </BrowserRouter>
   </StrictMode>,
 )
